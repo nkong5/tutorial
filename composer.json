@@ -16,6 +16,7 @@
     	"files": [ "registration.php" ],
     	"psr-4": {
       	  "Tutorial\\Test\\": ""
+  	}
     },
     "extra": {
         "map": [
